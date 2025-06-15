@@ -1,0 +1,1 @@
+name: biophysics-ai\ndependencies:\n  - python=3.10\n  - pytorch\n  - torchvision\n  - torchaudio\n  - pytorch-cuda=11.8
