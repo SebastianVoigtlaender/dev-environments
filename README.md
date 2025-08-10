@@ -1,1 +1,1 @@
-# Development Environments\nBase Dockerfiles.
+# AI & Biophysics Dev Environments\n\nOptimized Dockerfiles and Conda configurations for GPU-accelerated deep learning, PyTorch, and specialized medical imaging/biophysics tooling.
